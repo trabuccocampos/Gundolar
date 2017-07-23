@@ -588,14 +588,6 @@
 		<string>period</string>
 		<string>colon</string>
 		<string>space</string>
-		<string>i.001</string>
-		<string>i.002</string>
-		<string>n.001</string>
-		<string>n.002</string>
-		<string>n.003</string>
-		<string>h.002</string>
-		<string>o.001</string>
-		<string>o.002</string>
 		<string>.notdef</string>
 		<string>.null</string>
 	</array>
