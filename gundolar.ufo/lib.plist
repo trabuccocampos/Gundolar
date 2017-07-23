@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>5E6907BC-142F-4DFA-8083-25E109D1EA7B</key>
+		<dict>
+			<key>nV</key>
+			<string>68</string>
+			<key>nd</key>
+			<string>90</string>
+			<key>oH</key>
+			<string>55</string>
+			<key>oV</key>
+			<string>68</string>
+		</dict>
+	</dict>
 	<key>UFOFormat</key>
 	<integer>2</integer>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
@@ -517,12 +531,62 @@
 	</array>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>A</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
+		<string>E</string>
+		<string>F</string>
+		<string>G</string>
+		<string>H</string>
+		<string>I</string>
+		<string>J</string>
+		<string>K</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
+		<string>R</string>
+		<string>S</string>
+		<string>T</string>
+		<string>U</string>
+		<string>V</string>
+		<string>W</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Z</string>
+		<string>a</string>
+		<string>b</string>
+		<string>c</string>
+		<string>d</string>
+		<string>e</string>
+		<string>f</string>
+		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>j</string>
+		<string>k</string>
 		<string>l</string>
+		<string>m</string>
 		<string>n</string>
 		<string>o</string>
+		<string>p</string>
+		<string>q</string>
 		<string>r</string>
+		<string>s</string>
+		<string>t</string>
+		<string>u</string>
+		<string>v</string>
+		<string>w</string>
+		<string>x</string>
+		<string>y</string>
+		<string>z</string>
+		<string>hyphen</string>
+		<string>comma</string>
+		<string>period</string>
+		<string>colon</string>
 		<string>space</string>
 	</array>
 </dict>
