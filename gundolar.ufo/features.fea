@@ -1,0 +1,22 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature ss01 {
+@ss = [o n i];
+@ss001 = [o.001 n.001 i.001];
+
+feature ss01 {
+    sub @ss by @ss001;
+} ss01;
+} ss01;
+
+feature ss02 {
+@ss = [o n i];
+@ss002 = [o.001 n.001 i.001];
+
+feature ss02 {
+    sub @ss by @ss002;
+} ss02;
+} ss02;
+
