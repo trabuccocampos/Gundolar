@@ -588,6 +588,8 @@
 		<string>period</string>
 		<string>colon</string>
 		<string>space</string>
+		<string>.notdef</string>
+		<string>.null</string>
 	</array>
 </dict>
 </plist>
